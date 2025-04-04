@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git Demo Repository.
 <br >
-Author : Vasanti Dhankate
+Author : Vasanti Dhankate (Frontend Develeoper)
